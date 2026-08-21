@@ -38,9 +38,9 @@ The vibration sensor uses a 3-second latch: a momentary spike is held as an acti
 All zone readings are printed to the Serial Monitor for debugging, and key readings (humidity, temperature, IR, vibration) cycle on the LCD.
 
 Thresholds used
-MQ-2 gas threshold: 780
-Zone A temperature limit: 167
-Zone C temperature limit: 160
+MQ-2 gas threshold: 715
+Zone A temperature limit: 205
+Zone C temperature limit: 215
 Humidity limit: 40%
 
 
